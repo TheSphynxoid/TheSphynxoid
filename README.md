@@ -8,8 +8,11 @@ Passionate and multi-disciplined software developer with 8+ years of experience 
 ### TECHNICAL SKILLS:
 
 **Programming Languages:** C++, C#, Python, JavaScript, PHP
+
 **Frameworks & Libraries:** Mono, .Net, OpenGL, GLSL, Laravel
+
 **Tools & Technologies:** Git/GitHub, CMake, Premake
+
 **Web Development:** HTML, CSS, MySQL
 
 <!--
