@@ -3,7 +3,7 @@ Nabeul, Tunisia | Phone: +216 94 511 969
 
 ### SUMMARY:
 
-Passionate and multi-disciplined software developer with 8+ years of experience in various programming languages and frameworks. Holder of professional certificates in Cybersecurity (Google), DevOps (IBM), and RISC-V Toolchain Optimization (LinuxFoundation). Committed to continuous learning and enhancing both personal skills and the technical environment.
+Passionate and multi-disciplined software developer with 8+ years of experience in various programming languages and frameworks. Holder of professional certificates in Cybersecurity (Google). Committed to continuous learning and enhancing both personal skills and the technical environment.
 
 ### TECHNICAL SKILLS:
 
