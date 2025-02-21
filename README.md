@@ -1,19 +1,26 @@
 ## The Sphynx / TheSphynxoid
-Nabeul, Tunisia | Phone: +216 94 511 969
+Software Developer | Game Engine Enthusiast | Music Producer
+Nabeul, Tunisia
 
 ### SUMMARY:
 
-Passionate and multi-disciplined software developer with 8+ years of experience in various programming languages and frameworks. Holder of professional certificates in Cybersecurity (Google). Committed to continuous learning and enhancing both personal skills and the technical environment.
+I’m a multi-disciplinary software developer with 8+ years of experience, focusing on low-level development, game engines, and backend systems. Passionate about optimizing software performance and exploring cutting-edge technologies, I continuously strive to improve my skills.
+
+Currently, I'm learning Vulkan to deepen my understanding of modern graphics APIs. Always open to collaborations, discussions, and innovative projects!
 
 ### TECHNICAL SKILLS:
 
-**Programming Languages:** C++, C#, Python, JavaScript, PHP
+**Programming Languages:** C++, C#, Python, JavaScript, PHP, Go
 
 **Frameworks & Libraries:** Mono, .Net, OpenGL, GLSL, Laravel
 
 **Tools & Technologies:** Git/GitHub, CMake, Premake
 
 **Web Development:** HTML, CSS, MySQL
+
+### Connect with Me:
+
+[Linkedin](https://www.linkedin.com/in/thesphynx)
 
 <!--
 **TheSphynxoid/TheSphynxoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
